@@ -905,11 +905,11 @@ footer {
 
 
 .nest-list-odd>.claim-button {
-    background-color: #2f3136 !important;
+    background-color: #2f3136 ;
 }
 
 .nest-list-odd>.pay-button {
-    background-color: #d4a05e !important;
+    background-color: #d4a05e ;
 }
 
 
